@@ -1,0 +1,17 @@
+{
+  "config" : {
+    "success": true,
+    "version": "3.50",
+    "variant": "A",
+    "isNewConfig": true,
+    "currency": "INR",
+    "siteDomain": "IN",
+    "language": "ENGLISH",
+    "configJson": {
+      "tickTockConfig": {
+        "backgroundImage": ""
+      }
+    },
+    "responseErrors": null
+  }
+}
